@@ -11,7 +11,7 @@ const User=()=>{
   return(
     <div>
     <h1>first react App</h1>
-    <h2>Members</h2>
+    <p>Members</p>
     </div>
   );
 }

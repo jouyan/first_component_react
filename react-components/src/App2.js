@@ -11,7 +11,7 @@ const User=()=>{
   return(
     <div>
       <h1>Second (2th) Part:</h1>
-      <p>Details:<p/>
+      <p>Details:</p>
     </div>
   );
 }
