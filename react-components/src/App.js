@@ -11,7 +11,7 @@ const User=()=>{
   return(
     <div>
     <h1>first react App</h1>
-    <p>Members</p>
+    <h3>Members</h3>
     </div>
   );
 }
@@ -19,9 +19,9 @@ const User=()=>{
 const Job=(props)=>{
   return(
     <div>
-    <h1>{props.jobTitle}</h1>
-    <h1>{props.age}</h1>
-    <h1>{props.salary}</h1>
+      <p>{props.jobTitle}</p>
+      <p>{props.age}</p>
+      <p>{props.salary}</p>
     </div>
 
 
