@@ -10,7 +10,7 @@ function Line() {
 const User=()=>{
   return(
     <div>
-    <h1>ttt</h1>
+    <hr />
     </div>
   );
 }

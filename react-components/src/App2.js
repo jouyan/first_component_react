@@ -10,8 +10,8 @@ function App() {
 const User=()=>{
   return(
     <div>
-    <h1>Second (2th) Part:</h1>
-    <h2>Details:</h2>
+      <h1>Second (2th) Part:</h1>
+      <p>Details:<p/>
     </div>
   );
 }
