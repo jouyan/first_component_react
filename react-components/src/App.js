@@ -9,14 +9,13 @@ function App() {
 }
 const User=()=>{
   return(
-    <h2>kkk</h2>
+    <h2>test</h2>
   );
 }
 
 const Job=(props)=>{
   return(
     <div>
-
     <h1>{props.jobTitle}</h1>
     <h1>{props.age}</h1>
     <h1>{props.salary}</h1>
