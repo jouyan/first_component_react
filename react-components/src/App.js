@@ -9,7 +9,8 @@ function App() {
 }
 const User=()=>{
   return(
-    <h2>test</h2>
+    <h1>first react App</h1>
+    <h2>Members</h2>
   );
 }
 
